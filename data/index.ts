@@ -76,33 +76,33 @@ export const projects = [
     id: 1,
     title: "LifeSwap - Social Network App",
     des: "Explore the lives of others and change your own.",
-    img: "/p1.svg",
+    img: "/life.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/paulinpetra/lifeswap_expo_app",
   },
   {
     id: 2,
     title: "Zoom Redesign",
     des: "A redesign of Zoom to make it more user friendly.",
-    img: "/p2.svg",
+    img: "/zoom.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://zoom-redesign-phi.vercel.app/",
   },
   {
     id: 3,
     title: "React Component Library",
     des: "Reusable components like buttons, alerts, badges and cards.",
-    img: "/p3.svg",
+    img: "/components.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://component-library-self-theta.vercel.app/",
   },
   {
     id: 4,
     title: "Shopping Cart App",
     des: "Moolang Shopping Cart App using Firebase.",
-    img: "/p4.svg",
+    img: "/moolang.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://moolang-shopping-cart-app.vercel.app/",
   },
 ];
 
@@ -207,13 +207,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/paulinpetra",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/petra-paulin-bb16231b3/",
   },
 ];
