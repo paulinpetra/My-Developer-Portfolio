@@ -75,7 +75,7 @@ export const projects = [
   {
     id: 1,
     title: "LifeSwap - Social Network App",
-    des: "This is a work-in-progress fullstack React Native app where I apply my knowledge of React Native and Expo. The app features a unique concept aimed at expanding people’s perspectives by allowing them to swap lives with each other.",
+    des: "This is a work-in-progress fullstack React Native app where I apply my knowledge of React Native and Expo while letting my creativity flow.",
     img: "/life.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/paulinpetra/lifeswap_expo_app",
