@@ -75,7 +75,7 @@ export const projects = [
   {
     id: 1,
     title: "LifeSwap - Social Network App",
-    des: "This is a work-in-progress fullstack React Native app where I apply my knowledge of React Native and Expo while letting my creativity flow.",
+    des: "This is a work-in-progress fullstack React Native app where I apply my knowledge of React Native and Expo.",
     img: "/life.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/paulinpetra/lifeswap_expo_app",
