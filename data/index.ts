@@ -82,30 +82,40 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Zoom Redesign",
-    des: "A redesign of Zoom to make it more user friendly.",
-    img: "/zoom.png",
+    title: "Trend Mart",
+    des: "An e-retail website using Redux Toolkit.",
+    img: "/trend-mart.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://zoom-redesign-phi.vercel.app/",
+    link: "https://e-retail-website.vercel.app/",
   },
   {
     id: 3,
-    title: "React Component Library",
-    des: "A start of a library with Reusable components like buttons, alerts, badges and cards.",
-    img: "/components.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://component-library-self-theta.vercel.app/",
-  },
-  {
-    id: 4,
     title: "Evergreen Bank App",
     des: "Fullstack banking website using mySQL and hosted on AWS.",
     img: "/bank.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/paulinpetra/evergreen-bank-cicd",
   },
+  {
+    id: 4,
+    title: "React Component Library",
+    des: "A start of a library with Reusable components like buttons, alerts, badges and cards.",
+    img: "/components.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://component-library-self-theta.vercel.app/",
+  },
+
+  {
+    id: 5,
+    title: "Zoom Redesign",
+    des: "A redesign of Zoom to make it more user friendly.",
+    img: "/zoom.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://zoom-redesign-phi.vercel.app/",
+  },
 ];
 
+//testimonial examples for later
 export const testimonials = [
   {
     quote:
