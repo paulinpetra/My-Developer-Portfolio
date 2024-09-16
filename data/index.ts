@@ -98,11 +98,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Shopping Cart App",
-    des: "My first Progressive Web App. A Shopping Cart App using Firebase.",
-    img: "/moolang.png",
+    title: "Evergreen Bank App",
+    des: "Fullstack banking website using mySQL and hosted on AWS.",
+    img: "/bank.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://moolang-shopping-cart-app.vercel.app/",
+    link: "https://github.com/paulinpetra/evergreen-bank-cicd",
   },
 ];
 
