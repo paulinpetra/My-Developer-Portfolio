@@ -74,12 +74,13 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "LifeSwap - Social Network App",
-    des: "This is a work-in-progress fullstack React Native app where I apply my knowledge of React Native and Expo.",
-    img: "/life.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/paulinpetra/lifeswap_expo_app",
+    title: "The Fashion Journal - A Blog Platform",
+    des: "A full-stack Next.js project with Next server actions, Kinde and SQLite.",
+    img: "/blog.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://github.com/paulinpetra/fullstack-blog",
   },
+
   {
     id: 2,
     title: "Trend Mart",
@@ -98,11 +99,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "React Component Library",
-    des: "A start of a library with Reusable components like buttons, alerts, badges and cards.",
-    img: "/components.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://component-library-self-theta.vercel.app/",
+    title: "LifeSwap - Social Network App",
+    des: "This is a work-in-progress fullstack React Native app where I apply my knowledge of React Native and Expo.",
+    img: "/life.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://github.com/paulinpetra/lifeswap_expo_app",
   },
 
   {
@@ -119,7 +120,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Petra was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
